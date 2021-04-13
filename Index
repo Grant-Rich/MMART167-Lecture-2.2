@@ -1,0 +1,37 @@
+
+<html>
+  
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+<header>
+
+<h1> Work Examples </h1>
+
+</header>
+
+<nav>
+<ul class="buttons">
+<li class=happyButton><a href= "#"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/png/iconmonstr-smiley-1.png&r=0&g=0&b=0" alt="Smiley Face"/></a></li>
+
+  
+ <li class=sadButton><a href= "#"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/png/iconmonstr-smiley-3.png&r=0&g=0&b=0" alt="sad face"/> </a> </li>
+
+<li class=mehButton><a href= "#"class=mehbutton><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/png/iconmonstr-smiley-5.png&r=0&g=0&b=0" alt="Meh Button" /> </a></li>
+</ul> 
+</nav>
+<ul class ="gallery">
+	<li> <a href="#"> <img src= https://static.wixstatic.com/media/d22591_d70899dad8124256803324955018bc03~mv2.jpg/v1/fill/w_883,h_683,al_c,q_85,usm_0.66_1.00_0.01/final%20copy.webp>  </a> </li>
+	<li> <a href="#"> <img src=https://static.wixstatic.com/media/d22591_f108afb4186645d6af80342d7d43025b~mv2.jpg/v1/fill/w_690,h_683,al_c,q_85,usm_0.66_1.00_0.01/Final%20copy.webp>  </a> </li>
+	<li> <a href="#"> <img src=https://static.wixstatic.com/media/d22591_64de4dc495e346e69f56f926f38e4616~mv2.jpg/v1/fill/w_684,h_683,al_c,q_85,usm_0.66_1.00_0.01/Logo%201%20color%203.webp>  </a> </li>
+</ul>
+
+
+<footer>
+<p>The Images that I chose to display for this project are some of my own illustrated work.  They include: One of the first color stickers that I had printed, One of my first stickers that I created, and a logo that I made for the Oakland based garage rock band, Milk for the Angry.  These were all taken from my portfolio website.</p>
+</footer>  
+</body> 
+</html>
