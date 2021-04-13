@@ -1,0 +1,79 @@
+body {background-image: linear-gradient(#0099cc, #99ff33)}
+header { 
+ display:block;
+ background-color:#ffff;
+ margin: 30px 10px 80px 50px;
+ font-family: arial black;
+ font-size: 35px;
+ color: #cc00ff;
+ border: 7px solid #6600ff;
+ padding: 4px 4px 4px 250px;
+}
+ul.buttons{
+  float: left;
+  list-style: none;
+}
+ul.buttons li{
+ float: left;
+}
+ul.buttons li a img{
+	height: 100px;
+	width:  100px;
+  margin: 0 10px;
+  display: block;
+  padding: 8px;
+}
+
+ul.buttons li.happyButton a:hover img{
+-webkit-transform: scale(1.5);
+-moz-transform: scale(1.5);
+-o-transform: scale(1.5);
+transform: scale(5);
+}
+ul.buttons li.sadButton a:hover img{
+-webkit-transform: scale(-2) skew(-10deg, 30deg);
+-moz-transform: scale(-2) skew(-10deg, 30deg);
+-o-transform: scale(-2) rotate(-10deg, 50deg);
+transform: scale(-2) rotate(-10deg, 30deg);  
+}
+ul.buttons li.mehButton a:hover img{
+-webkit-transform: scale(2);
+-moz-transform: scale(2);
+-o-transform: scale(2);
+transform: scale(2);
+transform:rotate(170deg);
+-o-transform:(170deg);
+-moz-transform:(170deg);
+-webkit-transform:(170deg);
+}
+
+ul.gallery li {
+float: left;
+margin: 0 10px;
+border: 5px solid #fff;
+list-style: none;
+}
+
+ul.gallery li a img {
+  border: 1px solid #000000;
+	height: 300px;
+	width:  300px;
+  display: block;
+}
+ul.gallery li a:hover img {  
+-webkit-transform: scale(1.5);
+-moz-transform: scale(1.5);
+-o-transform: scale(1.5);
+transform: scale(1.5);
+-webkit-box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+-moz-box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+}
+p{
+font-family:arial;
+padding: 40px 4px 4px 4px;
+margin: 0 10px;
+alignment: center;
+display:block;
+float: left  
+}
